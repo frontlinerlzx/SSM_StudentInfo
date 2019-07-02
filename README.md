@@ -1,4 +1,16 @@
 # SSM_StudentInfo
+
+<本项目依附于作者得项目修复了多个BUG得更新版本>
+
+1.修复了由于前端控制器获取参数错误而导致无法正确修改学生信息得问题
+2.修复了由于事务管理导致del切面方法无法删除学生信息
+3.修复了登陆重定向问题
+
+
+
+
+
+
 ![这里写图片描述](http://img.blog.csdn.net/20170426215340419?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSExLXzExMzU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 **使用的技术：**
